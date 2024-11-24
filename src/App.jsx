@@ -1,4 +1,4 @@
-import Starter from "./tutorial/useState/useState-settimeout";
+import Starter from "./tutorial/useeffect/useeffect-multiple";
 function App() {
   return (
     <div className="container">
