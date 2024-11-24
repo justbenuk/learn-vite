@@ -1,4 +1,4 @@
-import Starter from "./tutorial/useState/useState-object";
+import Starter from "./tutorial/useState/useState-settimeout";
 function App() {
   return (
     <div className="container">
