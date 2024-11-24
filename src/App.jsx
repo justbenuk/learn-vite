@@ -1,4 +1,4 @@
-import Starter from "./tutorial/useeffect/useeffect-multiple";
+import Starter from "./tutorial/useeffect/useeffect-fetch";
 function App() {
   return (
     <div className="container">
